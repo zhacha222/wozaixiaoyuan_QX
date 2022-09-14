@@ -14,8 +14,8 @@
  */
 
 
-let location = ``
-let jwsession = ''
+const location = ``
+const jwsession = ''
 
 
 //===============通知设置=================//
